@@ -11,7 +11,7 @@ I enjoy turning complex problems into simple, reliable, and maintainable softwar
 ## ⚙️ What I work with
 
 - Backend development
-- API design (REST)
+- API design
 - System architecture
 - Distributed systems concepts
 - Event-driven systems
@@ -22,8 +22,9 @@ I enjoy turning complex problems into simple, reliable, and maintainable softwar
 
 ## 🧰 Tech I usually use
 
-- Node.js / Java (depending on the project)
+- Node.js / Java (basic experience or learning)
 - REST APIs
+- Graphql APIs
 - PostgreSQL / MongoDB
 - Docker
 - Message brokers (RabbitMQ concepts / async processing)
