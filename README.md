@@ -1,14 +1,71 @@
 ## Seja Bem Vindo!
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">   
-  <img align="center" alt="Rafa-HTML" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />     
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-</div>
+# 👋 Hey, I'm Patrick
+
+Backend Engineer focused on building scalable systems, APIs, and well-structured backend architectures.
+
+I enjoy turning complex problems into simple, reliable, and maintainable software.
+
+---
+
+## ⚙️ What I work with
+
+- Backend development
+- API design (REST)
+- System architecture
+- Distributed systems concepts
+- Event-driven systems
+- Clean Code & SOLID principles
+- Domain-driven thinking
+
+---
+
+## 🧰 Tech I usually use
+
+- Node.js / Java (depending on the project)
+- REST APIs
+- PostgreSQL / MongoDB
+- Docker
+- Message brokers (RabbitMQ concepts / async processing)
+- System design fundamentals
+
+---
+
+## 🚧 What you’ll find here
+
+This GitHub is a space where I:
+
+- build backend projects
+- experiment with system design ideas
+- practice clean architecture principles
+- evolve my engineering skills over time
+
+Most projects are focused on backend fundamentals, scalability, and software design.
+
+---
+
+## 🧠 How I think about software
+
+I care about:
+
+- clarity over complexity
+- maintainability over shortcuts
+- scalable decisions instead of quick fixes
+- long-term system health
+
+---
+
+## 🌍 Outside of work
+
+When I’m not building backend systems, I enjoy traveling and exploring new places.
+
+I also like playing games with friends — it’s a good way to relax, connect, and keep a balanced mindset.
+
+---
+
+## 📌 Always improving
+
+I’m constantly evolving as a software engineer, especially in backend architecture, system design, and distributed systems thinking.
   
   ##
   
