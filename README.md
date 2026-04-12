@@ -11,7 +11,7 @@ I enjoy turning complex problems into simple, reliable, and maintainable softwar
 ## ⚙️ What I work with
 
 - Backend development
-- API design
+- API Design (REST, GraphQL)
 - System architecture
 - Distributed systems concepts
 - Event-driven systems
@@ -29,6 +29,7 @@ I enjoy turning complex problems into simple, reliable, and maintainable softwar
 - Docker
 - Message brokers (RabbitMQ concepts / async processing)
 - System design fundamentals
+- CI/CD pipelines (automated testing and deployment workflows)
 
 ---
 
